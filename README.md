@@ -25,9 +25,9 @@ Step 7: Save and run the application.
 /*
 Program to print the list of item.
 
-Developed by: GRACIA RAVI R
+Developed by: RANJANA J
 
-Registeration Number : 212222040047
+Registeration Number : 212222040131
 */
 
 ## activity_main.xml:
